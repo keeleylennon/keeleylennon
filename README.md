@@ -13,7 +13,7 @@ I'm a PhD student at the University of Wollongong (UOW), delving into the fascin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keeleylennon&show_icons=true&theme=radical)
 
 ## 🌟 Fun Facts
-- chocolate_bar: Fueled by chocolate and curiosity
+- :chocolate_bar: Fueled by chocolate and curiosity
 - 📚 Always reading the latest in neuroscience
 - 🏃‍♀️ Loves sports and all things competitive 
 
