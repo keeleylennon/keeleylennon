@@ -1,4 +1,4 @@
-# 🌈 Hi, I'm Keeley ! 🌟
+# Hi, I'm Keeley ! 🌟
 
 ## 👩‍🎓 About Me
 I'm a PhD student at the University of Wollongong (UOW), delving into the fascinating world of **protein aggregation** and the **chaperome network** in relation to **ALS** (Amyotrophic Lateral Sclerosis). My research aims to uncover insights that could lead to better understanding of the pathological mechnasims behind ALS and eventually creating potential treatments for this devastating disease.
